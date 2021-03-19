@@ -52,7 +52,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Media Include="..\..\..\..\..\Desktop\YouTube\Audio Only\hgss.wav">
+    <Media Include="hgss.wav">
       <Filter>Resource Files</Filter>
     </Media>
   </ItemGroup>

@@ -166,7 +166,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Media Include="..\..\..\..\..\Desktop\YouTube\Audio Only\hgss.wav" />
+    <Media Include="hgss.wav" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
